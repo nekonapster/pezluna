@@ -1,0 +1,6 @@
+c0: bcc9ee
+c1: bce4c7
+c2: ffd9a7
+c3: ffbb97
+c4: d9d9d9
+footer: 34546c
